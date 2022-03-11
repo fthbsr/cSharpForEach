@@ -1,0 +1,15 @@
+/Users/fatihbasar/Desktop/foreach/obj/Debug/net6.0/foreach.csproj.AssemblyReference.cache
+/Users/fatihbasar/Desktop/foreach/obj/Debug/net6.0/foreach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihbasar/Desktop/foreach/obj/Debug/net6.0/foreach.AssemblyInfoInputs.cache
+/Users/fatihbasar/Desktop/foreach/obj/Debug/net6.0/foreach.AssemblyInfo.cs
+/Users/fatihbasar/Desktop/foreach/obj/Debug/net6.0/foreach.csproj.CoreCompileInputs.cache
+/Users/fatihbasar/Desktop/foreach/bin/Debug/net6.0/foreach
+/Users/fatihbasar/Desktop/foreach/bin/Debug/net6.0/foreach.deps.json
+/Users/fatihbasar/Desktop/foreach/bin/Debug/net6.0/foreach.runtimeconfig.json
+/Users/fatihbasar/Desktop/foreach/bin/Debug/net6.0/foreach.dll
+/Users/fatihbasar/Desktop/foreach/bin/Debug/net6.0/foreach.pdb
+/Users/fatihbasar/Desktop/foreach/obj/Debug/net6.0/foreach.dll
+/Users/fatihbasar/Desktop/foreach/obj/Debug/net6.0/refint/foreach.dll
+/Users/fatihbasar/Desktop/foreach/obj/Debug/net6.0/foreach.pdb
+/Users/fatihbasar/Desktop/foreach/obj/Debug/net6.0/foreach.genruntimeconfig.cache
+/Users/fatihbasar/Desktop/foreach/obj/Debug/net6.0/ref/foreach.dll
